@@ -1,5 +1,7 @@
 # Calculator
 
+This is a calculator based on the one described in the book "Programming: Principles and Practice Using C++"
+
 ## Description
 
 This project is a calculator that handles not only operations, but also expressions. The operations that are handled are addition `+`, subtraction `-`, multiplication `*`, division `/`, and floating-point modulo `%`. All the number literals are floating point numbers. The program follows the traditional order of precedence of operators, but parenthesis can be used to alter this order. Finally, the program has support for variables, to see the details about this features, see [variables](#variables)
